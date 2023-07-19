@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Navid Bonyadi</h1>
 <h3 align="center">A passionate front-end developer from IRAN</h3>
-
+<img src="https://193.43.104.127:7800/download?filename=%2Fwww%2Fwwwroot%2Ffrontend.benita.ml%2FSite%2Fassets%2Fimages%2Fphoto_2023-07-19_22-33-23.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bonyavid&label=Profile%20views&color=0e75b6&style=flat" alt="bonyavid" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bonyavid" alt="bonyavid" /></a> </p>
