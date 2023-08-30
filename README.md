@@ -87,6 +87,9 @@
           height="40"
         />
       </a>
+        <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/nuxtjs-logo.jpg" width="60" height="60" style="max-width: 100%">
+      </a>
       <a href="https://nodejs.org" target="_blank" rel="noreferrer">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
