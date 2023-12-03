@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/theyknownova" target="blank"><img src="https://img.shields.io/twitter/follow/theyknownova?logo=twitter&style=for-the-badge" alt="theyknownova" /></a> </p>
 
-- 🔭 I’m currently working on [My Projects](template2.benita.ml)
+- 🔭 This is my [PORTFOLIO](https://bonyavid.github.io/Portfolio)
 
-- 🌱 I’m currently learning **Vue.js**
+- 🌱 I’m currently learning MORE
 
-- 👨‍💻 All of my projects are available at [template2.benita.ml](template2.benita.ml)
+- 👨‍💻 All of my projects are available at ([Projects](https://bonyavid.github.io/Portfolio))
 
-- 💬 Ask me about **CSS and JS**
+- 💬 Ask me about Games
 
 - 📫 How to reach me **navidboniadi@gmail.com**
 
-- 📄 Know about my experiences [https://navidboniadi.benita.ml/](https://navidboniadi.benita.ml/)
+- 📄 Know about my [experiences](https://bonyavid.github.io/Portfolio))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -88,7 +88,7 @@
         />
       </a>
         <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/nuxtjs-logo.jpg" width="60" height="60" style="max-width: 100%">
+        <img src="https://bonyavid.github.io/Portfolio/assets/icons/nuxt.png" width="60" height="60" style="max-width: 100%">
       </a>
       <a href="https://nodejs.org" target="_blank" rel="noreferrer">
         <img
