@@ -3,7 +3,7 @@
 <img src="https://github.com/BonyaviD/bonyavid/blob/main/nova.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bonyavid&label=Profile%20views&color=0e75b6&style=flat" alt="bonyavid" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bonyavid" alt="bonyavid" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank"><img src="https://github-profile-trophy.vercel.app/?username=bonyavid" alt="bonyavid" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/theyknownova" target="blank"><img src="https://img.shields.io/twitter/follow/theyknownova?logo=twitter&style=for-the-badge" alt="theyknownova" /></a> </p>
 
@@ -102,23 +102,6 @@
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
           alt="mongodb"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-          alt="mysql"
-          width="40"
-          height="40"
-        />
-      </a>
- 
- <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"
-          alt="nginx"
           width="40"
           height="40"
         />
