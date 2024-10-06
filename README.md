@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/theyknownova" target="blank"><img src="https://img.shields.io/twitter/follow/theyknownova?logo=twitter&style=for-the-badge" alt="theyknownova" /></a> </p>
 
-- 🔭 This is my [PORTFOLIO](https://bonyavid.github.io/Portfolio)
+- 🔭 This is my [PORTFOLIO](https://bonyadi.netlify.app/)
 
 - 🌱 I’m currently learning MORE
 
