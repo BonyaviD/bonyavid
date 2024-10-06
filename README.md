@@ -11,13 +11,13 @@
 
 - 🌱 I’m currently learning MORE
 
-- 👨‍💻 All of my projects are available at [Projects](https://bonyavid.github.io/Portfolio)
+- 👨‍💻 All of my projects are available at [Projects](https://bonyadi.netlify.app/)
 
 - 💬 Ask me about Games
 
 - 📫 How to reach me **navidboniadi@gmail.com**
 
-- 📄 Know about my [experiences](https://bonyavid.github.io/Portfolio)
+- 📄 Know about my [experiences](https://bonyadi.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
